@@ -6,7 +6,7 @@
 
 # Access element 9 for a length of 5 elements.
 
-# Assign `[-12, -49]` to the 5th element from the end.
+# Assign [-12, -49] to the range starting from the 5th element from the end, for a length of 3.
 
 # Access all the elements starting at index 1.
 
