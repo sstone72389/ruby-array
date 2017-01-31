@@ -1,4 +1,4 @@
-![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
 # Ruby Arrays
 
@@ -107,11 +107,10 @@ IndexError: index -5 too small for array; minimum: -4
 Working in [bin/lab.rb](bin/lab.rb) (storing the results of any access in `tmp`
 for display):
 
--   Assign `20` to the element at `length+1`.
--   Access the 3rd element from the end of an array length of 5.
--   Access element 9 for a length of 5 elements.
--   Assign [-12, -49] to the range starting from the 5th element from the end,
-    for a length of 3.
+-   Assign `20` to the end of the array using the array's length.
+-   Access the 3rd element from the end of the array.
+-   Access element 9 from the array.
+-   Assign [-12, -49] to the the 5th element from the end.
 -   Access all the elements starting at index 1.
 
 ## Using a Ruby Array as a stack or queue
